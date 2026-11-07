@@ -1,0 +1,596 @@
+{
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-horizontal-ea237b2d.png",
+    "searchQuery": "",
+    "alternatives": [
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fab195bb-0240-4fdc-bb4a-99e5d735b41f/session/2d9d885d-6345-4623-9dc8-089645da38b1/horizontal-transparent-e1e681a9-c614-478e-8f43-d6af618f1ee0/logo-logo.png",
+      "/airo-assets/uploads/logo-horizontal-2d6fc726.jpg",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fab195bb-0240-4fdc-bb4a-99e5d735b41f/session/cb4c6846-ecc7-47ef-ab3a-74c05126f7af/horizontal-transparent-6ce6d97d-867a-4015-a1d2-c74d090cbef7/logo-logo.png"
+    ],
+    "productMockupsMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fab195bb-0240-4fdc-bb4a-99e5d735b41f/session/cb4c6846-ecc7-47ef-ab3a-74c05126f7af/horizontal-transparent-6ce6d97d-867a-4015-a1d2-c74d090cbef7/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fab195bb-0240-4fdc-bb4a-99e5d735b41f/session/cb4c6846-ecc7-47ef-ab3a-74c05126f7af/horizontal-mockup-mug-6ce6d97d-867a-4015-a1d2-c74d090cbef7/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fab195bb-0240-4fdc-bb4a-99e5d735b41f/session/cb4c6846-ecc7-47ef-ab3a-74c05126f7af/horizontal-mockup-card-6ce6d97d-867a-4015-a1d2-c74d090cbef7/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fab195bb-0240-4fdc-bb4a-99e5d735b41f/session/cb4c6846-ecc7-47ef-ab3a-74c05126f7af/horizontal-mockup-tshirt-6ce6d97d-867a-4015-a1d2-c74d090cbef7/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fab195bb-0240-4fdc-bb4a-99e5d735b41f/session/cb4c6846-ecc7-47ef-ab3a-74c05126f7af/horizontal-mockup-box-6ce6d97d-867a-4015-a1d2-c74d090cbef7/logo-logo.png"
+        }
+      ],
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fab195bb-0240-4fdc-bb4a-99e5d735b41f/session/2d9d885d-6345-4623-9dc8-089645da38b1/horizontal-transparent-e1e681a9-c614-478e-8f43-d6af618f1ee0/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fab195bb-0240-4fdc-bb4a-99e5d735b41f/session/2d9d885d-6345-4623-9dc8-089645da38b1/horizontal-mockup-mug-e1e681a9-c614-478e-8f43-d6af618f1ee0/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fab195bb-0240-4fdc-bb4a-99e5d735b41f/session/2d9d885d-6345-4623-9dc8-089645da38b1/horizontal-mockup-card-e1e681a9-c614-478e-8f43-d6af618f1ee0/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fab195bb-0240-4fdc-bb4a-99e5d735b41f/session/2d9d885d-6345-4623-9dc8-089645da38b1/horizontal-mockup-tshirt-e1e681a9-c614-478e-8f43-d6af618f1ee0/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fab195bb-0240-4fdc-bb4a-99e5d735b41f/session/2d9d885d-6345-4623-9dc8-089645da38b1/horizontal-mockup-box-e1e681a9-c614-478e-8f43-d6af618f1ee0/logo-logo.png"
+        }
+      ]
+    },
+    "productMockups": [
+      {
+        "type": "mug",
+        "label": "Mug",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fab195bb-0240-4fdc-bb4a-99e5d735b41f/session/2d9d885d-6345-4623-9dc8-089645da38b1/horizontal-mockup-mug-e1e681a9-c614-478e-8f43-d6af618f1ee0/logo-logo.png"
+      },
+      {
+        "type": "card",
+        "label": "Business Card",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fab195bb-0240-4fdc-bb4a-99e5d735b41f/session/2d9d885d-6345-4623-9dc8-089645da38b1/horizontal-mockup-card-e1e681a9-c614-478e-8f43-d6af618f1ee0/logo-logo.png"
+      },
+      {
+        "type": "tshirt",
+        "label": "T-Shirt",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fab195bb-0240-4fdc-bb4a-99e5d735b41f/session/2d9d885d-6345-4623-9dc8-089645da38b1/horizontal-mockup-tshirt-e1e681a9-c614-478e-8f43-d6af618f1ee0/logo-logo.png"
+      },
+      {
+        "type": "box",
+        "label": "Packaging",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fab195bb-0240-4fdc-bb4a-99e5d735b41f/session/2d9d885d-6345-4623-9dc8-089645da38b1/horizontal-mockup-box-e1e681a9-c614-478e-8f43-d6af618f1ee0/logo-logo.png"
+      }
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-07T14:13:46.347Z",
+    "lastUpdated": "2026-11-07T16:13:05.811Z",
+    "surfaceMode": "dark",
+    "darkSurfaceUrl": "/airo-assets/uploads/logo-horizontal-ea237b2d.png",
+    "uploadSources": {
+      "/airo-assets/uploads/logo-horizontal-ea237b2d.png": "oq4lqzs3jw_1794067966343_file_37zc4GNzdj.png"
+    },
+    "uploadContentHash": "2839ef25cb84dd9f7e874c1ee290b314f1abb1523d7012f0215a195a69f3f0d3",
+    "naturalOrientation": "square"
+  },
+  "pages/home/hero": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1156774130",
+    "searchQuery": "luxury modern restaurant interior dark ambient lighting premium atmosphere",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2205379588",
+      "https://img1.wsimg.com/isteam/getty/2173964434",
+      "https://img1.wsimg.com/isteam/getty/2205790719",
+      "https://img1.wsimg.com/isteam/getty/1435523764"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-07T14:13:48.889Z",
+    "lastUpdated": "2026-11-07T14:13:48.889Z",
+    "gettyId": "1156774130",
+    "alternativeGettyIds": [
+      "2205379588",
+      "2173964434",
+      "2205790719",
+      "1435523764"
+    ]
+  },
+  "pages/home/services-bg": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2263852226",
+    "searchQuery": "luxury commercial interior ambient scent diffuser modern dark elegant",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2249880221",
+      "https://img1.wsimg.com/isteam/getty/2299624357",
+      "https://img1.wsimg.com/isteam/getty/2256251010",
+      "https://img1.wsimg.com/isteam/getty/2289331468"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-07T14:13:49.485Z",
+    "lastUpdated": "2026-11-07T17:17:05.544Z",
+    "gettyId": "2263852226",
+    "alternativeGettyIds": [
+      "2249880221",
+      "2299624357",
+      "2256251010",
+      "2289331468"
+    ]
+  },
+  "pages/home/commercial-space": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2283618373",
+    "searchQuery": "upscale retail store interior modern minimalist dark",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2244684732",
+      "https://img1.wsimg.com/isteam/getty/178626183",
+      "https://img1.wsimg.com/isteam/getty/1441762356"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-07T14:13:50.665Z",
+    "lastUpdated": "2026-11-07T14:13:50.665Z",
+    "gettyId": "2283618373",
+    "alternativeGettyIds": [
+      "2244684732",
+      "178626183",
+      "1441762356"
+    ]
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-favicon-d7e1cd63.png",
+    "searchQuery": "",
+    "alternatives": [
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fab195bb-0240-4fdc-bb4a-99e5d735b41f/session/a4d2435a-0235-4f69-9dc7-cc6b4faebdd3/favicon-transparent-7b9a40b6-a58e-494a-8971-62bc5202acae/logo-logo.png",
+      "/airo-assets/uploads/logo-favicon-c9191c90.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/fab195bb-0240-4fdc-bb4a-99e5d735b41f/session/2c74763e-427a-4cfb-8f50-81314d3378da/favicon-transparent-f2e12d0e-2a67-4abf-a488-45cbc0ed59ed/logo-logo.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-07T14:13:58.574Z",
+    "lastUpdated": "2026-11-07T16:13:05.812Z",
+    "surfaceMode": "dark",
+    "darkSurfaceUrl": "/airo-assets/uploads/logo-favicon-d7e1cd63.png",
+    "uploadSources": {
+      "/airo-assets/uploads/logo-favicon-d7e1cd63.png": "oq4lqzs3jw_1794067966343_file_37zc4GNzdj.png"
+    },
+    "uploadContentHash": "2839ef25cb84dd9f7e874c1ee290b314f1abb1523d7012f0215a195a69f3f0d3"
+  },
+  "pages/sobre/hero": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2220828672",
+    "searchQuery": "professional team meeting modern office Buenos Aires",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1172618631",
+      "https://img1.wsimg.com/isteam/getty/2220676128"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-07T14:20:57.562Z",
+    "lastUpdated": "2026-11-07T14:20:57.562Z",
+    "gettyId": "2220828672",
+    "alternativeGettyIds": [
+      "1172618631",
+      "2220676128"
+    ]
+  },
+  "pages/servicios/difusor-3": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/keep-the-white-humidifier-diffuser-devic-BZGMwp.png",
+    "searchQuery": "white saphirus humidifier with black top",
+    "alternatives": [
+      "/airo-assets/uploads/remove-any-saphirus-logo-or-brand-text-f-47mPr-.png",
+      "/airo-assets/uploads/remove-the-saphirus-logo-and-any-brand-m-U5hYTF.png",
+      "/airo-assets/uploads/pages-servicios-difusor-3-28050eab.png",
+      "/airo-assets/uploads/replace-the-background-completely-with-a-mIxzYY.png",
+      "/airo-assets/uploads/keep-the-white-box-shaped-scent-diffuser-muMf8s.png",
+      "/airo-assets/uploads/this-is-a-product-photo-of-a-white-box-s-y2n3yz.png",
+      "https://img1.wsimg.com/isteam/getty/1482130294",
+      "https://img1.wsimg.com/isteam/getty/2236038051",
+      "https://img1.wsimg.com/isteam/getty/2245896669",
+      "https://img1.wsimg.com/isteam/getty/1322202384",
+      "https://img1.wsimg.com/isteam/getty/1892991099"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-07T14:23:40.739Z",
+    "lastUpdated": "2026-11-07T15:41:31.892Z",
+    "alternativeGettyIds": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "1482130294",
+      "2236038051",
+      "2245896669",
+      "1322202384",
+      "1892991099"
+    ],
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/keep-the-white-humidifier-diffuser-devic-BZGMwp.png",
+      "/airo-assets/uploads/remove-any-saphirus-logo-or-brand-text-f-47mPr-.png",
+      "/airo-assets/uploads/remove-the-saphirus-logo-and-any-brand-m-U5hYTF.png",
+      "/airo-assets/uploads/replace-the-background-completely-with-a-mIxzYY.png",
+      "/airo-assets/uploads/keep-the-white-box-shaped-scent-diffuser-muMf8s.png",
+      "/airo-assets/uploads/this-is-a-product-photo-of-a-white-box-s-y2n3yz.png"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/pages-servicios-difusor-3-28050eab.png": "oq4lqzs3jw_1794062060656_file_UdTdgyNB-q.png"
+    },
+    "uploadContentHash": "0049ec25d5837cc6065062e97e21b11a6b812597f73c9c690a3f01b530e13c24",
+    "caption": "white saphirus humidifier with black top"
+  },
+  "pages/servicios/difusor-1": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/keep-the-white-cylindrical-diffuser-devi-CSk758.png",
+    "searchQuery": "white cylindrical paper towel dispenser",
+    "alternatives": [
+      "/airo-assets/uploads/remove-any-saphirus-logo-or-brand-text-f-Oox_l-.png",
+      "/airo-assets/uploads/remove-the-saphirus-logo-and-any-brand-m-M_6xI7.png",
+      "/airo-assets/uploads/pages-servicios-difusor-1-3a4357e8.png",
+      "/airo-assets/uploads/replace-the-background-completely-with-a-EPFzWm.png",
+      "/airo-assets/uploads/keep-the-white-cylindrical-scent-diffuse-znPIhI.png",
+      "/airo-assets/uploads/this-is-a-product-photo-of-a-white-cylin-PKZWA2.png",
+      "https://img1.wsimg.com/isteam/getty/2223283659",
+      "https://img1.wsimg.com/isteam/getty/2223283792",
+      "https://img1.wsimg.com/isteam/getty/2154658442",
+      "https://img1.wsimg.com/isteam/getty/2161223273",
+      "https://img1.wsimg.com/isteam/getty/2146930270"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-07T14:23:41.280Z",
+    "lastUpdated": "2026-11-07T15:41:32.358Z",
+    "alternativeGettyIds": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "2223283659",
+      "2223283792",
+      "2154658442",
+      "2161223273",
+      "2146930270"
+    ],
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/keep-the-white-cylindrical-diffuser-devi-CSk758.png",
+      "/airo-assets/uploads/remove-any-saphirus-logo-or-brand-text-f-Oox_l-.png",
+      "/airo-assets/uploads/remove-the-saphirus-logo-and-any-brand-m-M_6xI7.png",
+      "/airo-assets/uploads/replace-the-background-completely-with-a-EPFzWm.png",
+      "/airo-assets/uploads/keep-the-white-cylindrical-scent-diffuse-znPIhI.png",
+      "/airo-assets/uploads/this-is-a-product-photo-of-a-white-cylin-PKZWA2.png"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/pages-servicios-difusor-1-3a4357e8.png": "oq4lqzs3jw_1794062060648_file_rkR8H7QNZU.png"
+    },
+    "uploadContentHash": "5169c235ecc240cc2b42f1d16a02935566014fec6748f8359e421da25cbd4736",
+    "caption": "white cylindrical paper towel dispenser"
+  },
+  "pages/servicios/difusor-2": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/keep-the-white-air-diffuser-device-exact-4-dTm4.png",
+    "searchQuery": "saphirus corporate air purifier white device",
+    "alternatives": [
+      "/airo-assets/uploads/remove-any-saphirus-logo-or-brand-text-f-AW0ZY4.png",
+      "/airo-assets/uploads/remove-the-saphirus-logo-and-any-brand-m-Cel9Q0.png",
+      "/airo-assets/uploads/pages-servicios-difusor-2-03e6b74d.png",
+      "/airo-assets/uploads/replace-the-background-completely-with-a-713jUj.png",
+      "/airo-assets/uploads/keep-the-white-rectangular-scent-diffuse-1uDlef.png",
+      "/airo-assets/uploads/this-is-a-product-photo-of-a-white-recta-DZfz4N.png",
+      "https://img1.wsimg.com/isteam/getty/2232801213",
+      "https://img1.wsimg.com/isteam/getty/951126700",
+      "https://img1.wsimg.com/isteam/getty/2214659276",
+      "https://img1.wsimg.com/isteam/getty/1488421905",
+      "https://img1.wsimg.com/isteam/getty/2159775324"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-07T14:23:41.797Z",
+    "lastUpdated": "2026-11-07T15:41:32.344Z",
+    "alternativeGettyIds": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "2232801213",
+      "951126700",
+      "2214659276",
+      "1488421905",
+      "2159775324"
+    ],
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/keep-the-white-air-diffuser-device-exact-4-dTm4.png",
+      "/airo-assets/uploads/remove-any-saphirus-logo-or-brand-text-f-AW0ZY4.png",
+      "/airo-assets/uploads/remove-the-saphirus-logo-and-any-brand-m-Cel9Q0.png",
+      "/airo-assets/uploads/replace-the-background-completely-with-a-713jUj.png",
+      "/airo-assets/uploads/keep-the-white-rectangular-scent-diffuse-1uDlef.png",
+      "/airo-assets/uploads/this-is-a-product-photo-of-a-white-recta-DZfz4N.png"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/pages-servicios-difusor-2-03e6b74d.png": "oq4lqzs3jw_1794062060652_file_V14rBTjlrv.png"
+    },
+    "uploadContentHash": "50c796b4c6d344ca58964159d2bd5d7e3e8474b8ff8ad0e5e974e7e2eb2e7c45",
+    "caption": "saphirus corporate air purifier white device"
+  },
+  "pages/servicios/difusor-4": {
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/keep-the-white-diffuser-with-digital-dis-Kbw_12.png",
+    "searchQuery": "saphirus corporate humidifier with digital display",
+    "alternatives": [
+      "/airo-assets/uploads/remove-any-saphirus-logo-or-brand-text-f-wYndaF.png",
+      "/airo-assets/uploads/remove-the-saphirus-logo-and-any-brand-m-9tVm1g.png",
+      "/airo-assets/uploads/pages-servicios-difusor-4-c5e89ef0.png",
+      "/airo-assets/uploads/replace-the-background-completely-with-a-MJN32E.png",
+      "/airo-assets/uploads/keep-the-dark-gray-charcoal-box-shaped-s-Fm2VAt.png",
+      "/airo-assets/uploads/remove-the-saphirus-corporate-logo-text--9wVINJ.png",
+      "https://img1.wsimg.com/isteam/getty/1331464310",
+      "https://img1.wsimg.com/isteam/getty/2189973055",
+      "https://img1.wsimg.com/isteam/getty/1063450062",
+      "https://img1.wsimg.com/isteam/getty/146731738",
+      "https://img1.wsimg.com/isteam/getty/1350493768"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-07T14:31:41.306Z",
+    "lastUpdated": "2026-11-07T15:41:32.331Z",
+    "alternativeGettyIds": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "1331464310",
+      "2189973055",
+      "1063450062",
+      "146731738",
+      "1350493768"
+    ],
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/keep-the-white-diffuser-with-digital-dis-Kbw_12.png",
+      "/airo-assets/uploads/remove-any-saphirus-logo-or-brand-text-f-wYndaF.png",
+      "/airo-assets/uploads/remove-the-saphirus-logo-and-any-brand-m-9tVm1g.png",
+      "/airo-assets/uploads/replace-the-background-completely-with-a-MJN32E.png",
+      "/airo-assets/uploads/keep-the-dark-gray-charcoal-box-shaped-s-Fm2VAt.png",
+      "/airo-assets/uploads/remove-the-saphirus-corporate-logo-text--9wVINJ.png"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/pages-servicios-difusor-4-c5e89ef0.png": "oq4lqzs3jw_1794062060658_file_jNmJNSEYpK.png"
+    },
+    "uploadContentHash": "bd9efb5b18b1152ab6bc3c53c9e0d2acbe47f574ae94f3e99dfe46904b2229cc",
+    "caption": "saphirus corporate humidifier with digital display"
+  },
+  "logo/primary": {
+    "darkSurfaceUrl": "/airo-assets/uploads/logo-primary-9ff6f77e.png",
+    "surfaceMode": "dark",
+    "currentUrl": "/airo-assets/uploads/logo-primary-9ff6f77e.png",
+    "userModified": true,
+    "mediaType": "logo",
+    "searchQuery": "",
+    "alternatives": [
+      "/airo-assets/uploads/logo-primary-1b9423f0.png",
+      "/airo-assets/uploads/logo-primary-cfa836ca.png"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/logo-primary-cfa836ca.png": "oq4lqzs3jw_1794065399108_file_IXNH4DPwjr.jpg",
+      "/airo-assets/uploads/logo-primary-1b9423f0.png": "oq4lqzs3jw_1794067357120_file_0oU3lIBOnd.png",
+      "/airo-assets/uploads/logo-primary-9ff6f77e.png": "oq4lqzs3jw_1794067966343_file_37zc4GNzdj.png"
+    },
+    "uploadContentHash": "2839ef25cb84dd9f7e874c1ee290b314f1abb1523d7012f0215a195a69f3f0d3",
+    "createdAt": "2026-11-07T15:30:10.914Z",
+    "lastUpdated": "2026-11-07T16:13:05.812Z",
+    "naturalOrientation": "square"
+  },
+  "logo/vertical": {
+    "darkSurfaceUrl": "/airo-assets/uploads/logo-vertical-c7109666.png",
+    "surfaceMode": "dark",
+    "currentUrl": "/airo-assets/uploads/logo-vertical-c7109666.png",
+    "userModified": true,
+    "mediaType": "logo",
+    "searchQuery": "",
+    "alternatives": [
+      "/airo-assets/uploads/logo-vertical-b3c3cb9b.png",
+      "/airo-assets/uploads/logo-vertical-62d168a7.png"
+    ],
+    "uploadSources": {
+      "/airo-assets/uploads/logo-vertical-62d168a7.png": "oq4lqzs3jw_1794065399108_file_IXNH4DPwjr.jpg",
+      "/airo-assets/uploads/logo-vertical-b3c3cb9b.png": "oq4lqzs3jw_1794067357120_file_0oU3lIBOnd.png",
+      "/airo-assets/uploads/logo-vertical-c7109666.png": "oq4lqzs3jw_1794067966343_file_37zc4GNzdj.png"
+    },
+    "uploadContentHash": "2839ef25cb84dd9f7e874c1ee290b314f1abb1523d7012f0215a195a69f3f0d3",
+    "createdAt": "2026-11-07T15:30:10.914Z",
+    "lastUpdated": "2026-11-07T16:13:05.812Z",
+    "naturalOrientation": "vertical"
+  },
+  "pages/servicios/difusor-spray": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/keep-the-white-automatic-spray-dispenser-eV5_Lc.png",
+    "searchQuery": "white automatic air freshener dispenser device",
+    "alternatives": [
+      "/airo-assets/uploads/remove-any-saphirus-logo-or-brand-text-f-9g1_vZ.png",
+      "/airo-assets/uploads/remove-the-saphirus-logo-and-any-brand-m-5-VvKk.png",
+      "/airo-assets/uploads/pages-servicios-difusor-spray-2d6fc726.jpg",
+      "/airo-assets/uploads/keep-the-white-automatic-spray-air-fresh-PFS2g2.png"
+    ],
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/keep-the-white-automatic-spray-dispenser-eV5_Lc.png",
+      "/airo-assets/uploads/remove-any-saphirus-logo-or-brand-text-f-9g1_vZ.png",
+      "/airo-assets/uploads/remove-the-saphirus-logo-and-any-brand-m-5-VvKk.png",
+      "/airo-assets/uploads/keep-the-white-automatic-spray-air-fresh-PFS2g2.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-07T15:30:32.765Z",
+    "lastUpdated": "2026-11-07T15:41:33.563Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-servicios-difusor-spray-2d6fc726.jpg": "oq4lqzs3jw_1794065399108_file_IXNH4DPwjr.jpg"
+    },
+    "uploadContentHash": "3a5faff6bfbd83e8f15e8968ecdee8c3cf1c1fa047edb0d3366e08bd75d734e0",
+    "caption": "white automatic air freshener dispenser device"
+  },
+  "pages/servicios/video-spray": {
+    "mediaType": "video",
+    "currentUrl": "https://blobby.wsimg.com/getty/videos/1316773371",
+    "thumbnailUrl": "https://media.gettyimages.com/id/1316773371/video/shopping-clothing-store-interior-modern-fashionable-shop-clothes-for-every-taste-stylish.jpg?b=1&s=192x192&k=20&c=8DTlmplax77I7gM9WvMT_cjsNhrcTyDXdmsSJLXsKSw=",
+    "searchQuery": "retail store interior ambient dark minimalist",
+    "alternatives": [],
+    "userModified": false,
+    "createdAt": "2026-11-07T15:45:22.574Z",
+    "lastUpdated": "2026-11-07T15:45:22.574Z",
+    "gettyId": "1316773371"
+  },
+  "pages/servicios/video-1": {
+    "mediaType": "video",
+    "currentUrl": "https://blobby.wsimg.com/getty/videos/1217868099",
+    "thumbnailUrl": "https://media.gettyimages.com/id/1217868099/video/luxurious-reception-zone-in-high-class-hotel-interior-of-beautiful-hall-for-wealthy-clients.jpg?b=1&s=192x192&k=20&c=pJTL8nswND9sXkahK2QIeEzouYyU7C9OoOt0VMkuv1I=",
+    "searchQuery": "luxury hotel lobby reception ambient elegant",
+    "alternatives": [],
+    "userModified": false,
+    "createdAt": "2026-11-07T15:45:23.156Z",
+    "lastUpdated": "2026-11-07T15:45:23.156Z",
+    "gettyId": "1217868099"
+  },
+  "pages/servicios/video-3": {
+    "mediaType": "video",
+    "currentUrl": "https://blobby.wsimg.com/getty/videos/2160229055",
+    "thumbnailUrl": "https://media.gettyimages.com/id/2160229055/video/eco-friendly-open-plan-modern-office-with-tables-office-chairs-meeting-table-waiting-area-and.jpg?b=1&s=192x192&k=20&c=hcy2Yscu52nL29lIGHFHEWxuDI5mHl9hWFfHAiHSiHs=",
+    "searchQuery": "corporate office interior modern ambient",
+    "alternatives": [],
+    "userModified": false,
+    "createdAt": "2026-11-07T15:45:23.170Z",
+    "lastUpdated": "2026-11-07T15:45:23.170Z",
+    "gettyId": "2160229055"
+  },
+  "pages/servicios/video-2": {
+    "mediaType": "video",
+    "currentUrl": "https://blobby.wsimg.com/getty/videos/1227517584",
+    "thumbnailUrl": "https://media.gettyimages.com/id/1227517584/video/small-business-concept-many-training-machines-in-an-empty-gym.jpg?b=1&s=192x192&k=20&c=wxH2_ypP61B5NffJfRkSkoWAXv23tIB2AMNbpBZknsw=",
+    "searchQuery": "modern gym fitness interior dark dramatic",
+    "alternatives": [],
+    "userModified": false,
+    "createdAt": "2026-11-07T15:45:23.183Z",
+    "lastUpdated": "2026-11-07T15:45:23.183Z",
+    "gettyId": "1227517584"
+  },
+  "pages/servicios/video-4": {
+    "mediaType": "video",
+    "currentUrl": "https://blobby.wsimg.com/getty/videos/2168884093",
+    "thumbnailUrl": "https://media.gettyimages.com/id/2168884093/video/video-of-the-john-lewis-mall-inside-at-night.jpg?b=1&s=192x192&k=20&c=99fPbmpGUa5gZrzKyC4xOzILEQhvaKy3Kb4IOFIPWQg=",
+    "searchQuery": "luxury shopping mall atrium interior ambient",
+    "alternatives": [],
+    "userModified": false,
+    "createdAt": "2026-11-07T15:45:24.821Z",
+    "lastUpdated": "2026-11-07T15:45:24.821Z",
+    "gettyId": "2168884093"
+  },
+  "pages/home/hero-video": {
+    "mediaType": "video",
+    "currentUrl": "https://blobby.wsimg.com/getty/videos/671678538",
+    "thumbnailUrl": "https://media.gettyimages.com/id/671678538/video/businessman-with-suitcase-walking-to-reception-desk.jpg?b=1&s=192x192&k=20&c=jV5yRJX7E6CCBODT2H7dcuOdJn0KrdeN5j-PymtfIrw=",
+    "searchQuery": "luxury hotel lobby restaurant office retail interior elegant dark ambient",
+    "alternatives": [],
+    "userModified": false,
+    "createdAt": "2026-11-07T15:53:20.689Z",
+    "lastUpdated": "2026-11-07T15:56:06.556Z",
+    "gettyId": "671678538"
+  },
+  "pages/home/hero-video-hotel": {
+    "mediaType": "video",
+    "currentUrl": "https://blobby.wsimg.com/getty/videos/1217868099",
+    "thumbnailUrl": "https://media.gettyimages.com/id/1217868099/video/luxurious-reception-zone-in-high-class-hotel-interior-of-beautiful-hall-for-wealthy-clients.jpg?b=1&s=192x192&k=20&c=pJTL8nswND9sXkahK2QIeEzouYyU7C9OoOt0VMkuv1I=",
+    "searchQuery": "luxury hotel lobby interior bright elegant chandelier reception",
+    "alternatives": [],
+    "userModified": false,
+    "createdAt": "2026-11-07T15:56:13.063Z",
+    "lastUpdated": "2026-11-07T15:58:27.826Z",
+    "gettyId": "1217868099"
+  },
+  "pages/home/hero-video-office": {
+    "mediaType": "video",
+    "currentUrl": "https://blobby.wsimg.com/getty/videos/1336357371",
+    "thumbnailUrl": "https://media.gettyimages.com/id/1336357371/video/modern-office-interior-in-a-business-center-empty-open-office-space.jpg?b=1&s=192x192&k=20&c=DBdLXVYM7wJRK7ghgVzeEBj7Q3s2Ak3D6z90ELGVQdY=",
+    "searchQuery": "modern corporate office interior dark professional ambient",
+    "alternatives": [],
+    "userModified": false,
+    "createdAt": "2026-11-07T15:56:13.637Z",
+    "lastUpdated": "2026-11-07T15:56:13.637Z",
+    "gettyId": "1336357371"
+  },
+  "pages/home/hero-video-retail": {
+    "mediaType": "video",
+    "currentUrl": "https://blobby.wsimg.com/getty/videos/2161655114",
+    "thumbnailUrl": "https://media.gettyimages.com/id/2161655114/video/two-women-discussing-new-fine-jewellery-collection-in-premium-boutique.jpg?b=1&s=192x192&k=20&c=0DE3X5AxoIzHc3xbw_1XUCw3886P6CgFA-C-pMsw2Ww=",
+    "searchQuery": "luxury retail store boutique interior dark elegant ambient",
+    "alternatives": [],
+    "userModified": false,
+    "createdAt": "2026-11-07T15:56:13.654Z",
+    "lastUpdated": "2026-11-07T15:56:13.654Z",
+    "gettyId": "2161655114"
+  },
+  "pages/home/hero-video-restaurant": {
+    "mediaType": "video",
+    "currentUrl": "https://blobby.wsimg.com/getty/videos/1370288288",
+    "thumbnailUrl": "https://media.gettyimages.com/id/1370288288/video/empty-tables-and-chairs-in-restaurant-stock-video.jpg?b=1&s=192x192&k=20&c=KAtWQRM6b4a9dLRzJzjphkFUdZu-xMAjYzQPQLcswSo=",
+    "searchQuery": "luxury restaurant interior dark ambient elegant dining",
+    "alternatives": [],
+    "userModified": false,
+    "createdAt": "2026-11-07T15:56:13.670Z",
+    "lastUpdated": "2026-11-07T15:56:13.670Z",
+    "gettyId": "1370288288"
+  },
+  "pages/nosotros/hero": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2289331517",
+    "searchQuery": "modern commercial interior dark ambient elegant scent diffuser",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2173185225",
+      "https://img1.wsimg.com/isteam/getty/2286751411"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-07T16:28:26.656Z",
+    "lastUpdated": "2026-11-07T16:28:26.656Z",
+    "gettyId": "2289331517",
+    "alternativeGettyIds": [
+      "2173185225",
+      "2286751411"
+    ]
+  }
+}
